@@ -1,0 +1,213 @@
+{
+  "Questions": [
+    {
+      "Question": "How many campuses does limkokwing has?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "11"
+        },
+        {
+          "Answer": "12"
+        },
+        {
+          "Answer": "13"
+        },
+        {
+          "Answer": "14"
+        }
+      ]
+    },
+    {
+      "Question": "How many countries limkokwing has student from?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "80 countries"
+        },
+        {
+          "Answer": "100 countries¸"
+        },
+        {
+          "Answer": "120 countries"
+        },
+        {
+          "Answer": "150 countries"
+        }
+      ]
+    },
+    
+        {
+      "Question": "How many students do you think limkokwing has?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Over 10,000."
+        },
+        {
+          "Answer": "Over 20,000."
+        },
+        {
+          "Answer": "Over 30,000."
+        },
+        {
+          "Answer": "Over 40,000."
+        }
+      ]
+    },
+    
+        {
+      "Question": "How many faculties limkokwing has?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "8."
+        },
+        {
+          "Answer": "7."
+        },
+        {
+          "Answer": "6."
+        },
+        {
+          "Answer": "5."
+        }
+      ]
+    },
+    
+           {
+      "Question": "How many events that limkokwing has during one semester?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "5."
+        },
+        {
+          "Answer": "6."
+        },
+        {
+          "Answer": "7."
+        },
+        {
+          "Answer": "8."
+        }
+      ]
+    },
+    
+      {
+      "Question": "Which date exactly the culture night happened in 2015?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "8-May."
+        },
+        {
+          "Answer": "10-May."
+        },
+        {
+          "Answer": "12- May."
+        },
+        {
+          "Answer": "14-May"
+        }
+      ]
+    },
+    
+          {
+      "Question": "About IT: Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Flash."
+        },
+        {
+          "Answer": "Flange."
+        },
+        {
+          "Answer": "Fury."
+        },
+        {
+          "Answer": "Frame."
+        }
+      ]
+    },
+    
+     {
+           "Question": "Who developed Yahoo?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Dennis Ritchie & Ken Thompson."
+        },
+        {
+          "Answer": "David Filo & Jerry Yang."
+        },
+        {
+          "Answer": "Vint Cerf & Robert Kahn."
+        },
+        {
+          "Answer": "Steve Case & Jeff Bezos."
+        }
+      ]
+    },
+    
+             {
+      "Question": "'DB' computer abbreviation usually means?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Double Byte."
+        },
+        {
+          "Answer": "Data Block."
+        },
+        {
+          "Answer": "Driver Boot."
+        },
+        {
+          "Answer": "Database."
+        }
+      ]
+    },
+    
+                 {
+      "Question": "What is part of a database that holds only one type of information?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Report."
+        },
+        {
+          "Answer": "Record."
+        },
+        {
+          "Answer": "Field."
+        },
+        {
+          "Answer": "File."
+        }
+      ]
+    },
+    {
+      "Question": "Compact discs, (according to the original CD specifications) hold how many minutes of music?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "90 mins."
+        },
+        {
+          "Answer": "74 mins."
+        },
+        {
+          "Answer": "60 mins."
+        },
+        {
+          "Answer": "56 mins."
+        }
+      ]
+    }
+     ]
+}
+
+    
+     

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/quizLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#263238" >
+
+    <EditText
+        android:id="@+id/question"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:editable="false"
+        android:lines="3" >
+
+        <requestFocus />
+    </EditText>
+
+    <RadioGroup
+        android:id="@+id/answers"
+        android:layout_width="wrap_content"
+        android:layout_height="356dp"
+        android:layout_weight="0.57"
+        android:gravity="center_horizontal" >
+
+        <RadioButton
+            android:id="@+id/a0"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@drawable/radio_states_yellow"
+            android:scrollHorizontally="false"
+            android:text="RadioButton"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/a3"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@drawable/radio_states_yellow"
+            android:text="RadioButton"
+            android:textColor="@drawable/radio_text"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/a1"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@drawable/radio_states_yellow"
+            android:text="RadioButton"
+            android:textColor="@drawable/radio_text"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/a2"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@drawable/radio_states_yellow"
+            android:text="RadioButton"
+            android:textColor="@drawable/radio_text"
+            android:textStyle="bold" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/Prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                        android:background="@drawable/radio_states_red"
+            
+            android:layout_weight="0.21"
+            android:text="&lt;&lt;&lt;" />
+
+        <Button
+            android:id="@+id/finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                        android:background="@drawable/radio_states_red"
+            
+            android:layout_weight="0.18"
+            android:text="Finish" />
+
+        <Button
+            android:id="@+id/Next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                        android:background="@drawable/radio_states_red"
+            
+            android:layout_weight="0.23"
+            android:text=">>>" />
+
+    </LinearLayout>
+
+</TableLayout>
